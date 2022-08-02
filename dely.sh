@@ -1,3 +1,6 @@
-this file cntaines the delymnet scriyt
 
+dating this file 
+
+=======
+this file cntaines the delymnet scriyt
 udatating t check head and branch
